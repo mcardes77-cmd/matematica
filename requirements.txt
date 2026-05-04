@@ -1,6 +1,5 @@
 flask
 gunicorn
 python-dotenv
-supabase
 openpyxl
 openai
